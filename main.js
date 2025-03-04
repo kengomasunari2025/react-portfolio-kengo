@@ -1,7 +1,3 @@
-// document.addEventListener("DOMContentLoaded", function() {
-//   $("#videoPlay").YTPlayer();
-// });
-
 document.addEventListener("DOMContentLoaded", function() {
   $("#videoPlay").YTPlayer();
 });
