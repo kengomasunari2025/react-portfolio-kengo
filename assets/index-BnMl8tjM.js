@@ -13213,7 +13213,7 @@ typing("#typing", "Open My Portfolio");
   lp = () =>
     i.jsx("div", {
       className:
-        "mx-3 border border-white d-inline-block px-2 pt-2 hover cursor-pointer",
+        "mx-3 border border-white d-inline-block px-2 hover cursor-pointer",
       children: i.jsx("i", { className: "fa fa-comments text-white" }),
     }),
   ip = () =>
