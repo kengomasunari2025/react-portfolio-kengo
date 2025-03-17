@@ -448,6 +448,10 @@ li {
     width: 90%;
   }
 }
+.small-text-style {
+  font-size: 11px;
+  line-height: 14px;
+}
 .slick-slider {
   position: relative;
   display: block;
