@@ -15764,7 +15764,5 @@ const Ym = Wu(Km),
     }),
   Py = () => le.jsx(_y, {});
 Vp.createRoot(document.getElementById("root")).render(
-  le.jsx(bp.StrictMode, {
-    children: le.jsx(im, { basename: "", children: le.jsx(Py, {}) }),
-  })
+  le.jsx(bp.StrictMode, { children: le.jsx(im, { children: le.jsx(Py, {}) }) })
 );
